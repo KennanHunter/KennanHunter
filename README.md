@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi
 
-<!--
-**KennanHunter/KennanHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have way too many projects I switch between to list here but my most pursued is a 2d game i'm making with some friends, being built in the [Bevy Game Engine](https://bevyengine.org/)
 
-Here are some ideas to get you started:
+## What I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I use VSCode, with the [FiraCode Font](github.com/tonsky/FiraCode), as well as a peaceful few hundread extentions. I also ocassionally pull out Vim in the command line. I hope to get better with Vim and potentially even switch over to it fully.
+
+My most used Languages are
+
+- Rust
+- Python
+- HTML, CSS, JS
+
+## why
+
+I have no clue what I want to program in the real world, so I might as well program everything now. Hopefully MIT doesn't reject me though.
