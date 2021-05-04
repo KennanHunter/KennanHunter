@@ -1,6 +1,8 @@
 # Hi
 
-I have way too many projects I switch between to list here but my most pursued is a 2d game i'm making with some friends, being built in the [Bevy Game Engine](https://bevyengine.org/)
+Pronouns: He/Him
+
+I have way too many projects I switch between to list here but my most pursued is a 2d game i'm making with some friends
 
 ## What I use
 
@@ -10,8 +12,8 @@ My most used Languages are
 
 - Rust
 - Python
-- HTML, CSS, JS
+- Javascript
 
 ## why
 
-I have no clue what I want to program in the real world, so I might as well program everything now. Hopefully MIT doesn't reject me though.
+I have no clue what I want to program in the real world, so I might as well program everything now. Maybe MIT wont reject me.
