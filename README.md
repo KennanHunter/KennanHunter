@@ -2,7 +2,7 @@
 
 Pronouns: He/Him
 
-I have way too many projects I switch between to list here but my most pursued is a fun little password manager
+I have way too many projects I switch between to list here but my currently most pursued is a fun little password manager.
 
 ## What I use
 
