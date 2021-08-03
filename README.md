@@ -25,5 +25,5 @@ As for JS/TS i personally use Svelte allot, which i believe is much better than 
 The best way to contact me is my discord Kennan#4955.
 
 ## Other Links
-- [MyAnimeList](https://myanimelist.net/animelist/Kennnan)
+- [MyAnimeList](https://myanimelist.net/animelist/Kennnan?status=7&order=4&order2=0)
 - [(Empty) StackOverflow](https://stackoverflow.com/users/13185735/kennan-hunter)
