@@ -40,9 +40,10 @@ The best way to contact me is my discord Kennan#4955.
 - [(Empty) StackOverflow](https://stackoverflow.com/users/13185735/kennan-hunter)
 - [Osu](https://osu.ppy.sh/users/17596931)
 
-
+<!-- 
 ## some screenshots
 
 <br>
 <img src="screenshot1.png">
 <img src="screenshot2.png">
+ -->
