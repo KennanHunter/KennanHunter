@@ -2,13 +2,13 @@
 
 Pronouns: He/Him
 
-I have way too many projects I switch between to list here but my currently most pursued is a [fun little password manager](https://github.com/KennanHunter/bad-password-manager).
+I have way too many projects I switch between to list here
 
 ## What I use
 
 ### OS
 
-For operating system i use Arch Linux with i3 and Polybar. I also use Oh-My-Zsh instead of bash, and the Alacritty terminal emulator. My Dotfiles are available probably somewhere, i still haven't set up the repo yet lmao.
+For operating system i use Arch Linux with i3 and Polybar. I also use Oh-My-Zsh instead of bash, and the Alacritty terminal emulator. [My Dotfiles are available at this repo](https://github.com/KennanHunter/dotfiles)
 
 ### IDE
 
