@@ -8,7 +8,7 @@ I have way too many projects I switch between to list here
 
 ### OS
 
-For operating system i use Arch Linux with i3 and Polybar. I also use Oh-My-Zsh instead of bash, and the Alacritty terminal emulator. [My Dotfiles are available at this repo](https://github.com/KennanHunter/dotfiles)
+For operating system i use Arch Linux with i3 and Polybar. I also use Oh-My-Zsh instead of bash, and the Kitty terminal emulator. [My Dotfiles are available at this repo](https://github.com/KennanHunter/dotfiles)
 
 ### IDE
 
