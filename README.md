@@ -1,3 +1,3 @@
 # Hi!
 
-Checkout [my website](https://kennan.tech)
+Checkout [my website](https://kennan.dev)
